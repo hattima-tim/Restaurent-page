@@ -1,9 +1,7 @@
-body{
-    background-color: #ff2f2b;
-}
 #tab {
-    border: 1px solid #ccc;
-    background-color: #f1f1f1;
+    display:flex;
+    justify-content: center;
+    background-color:#ff2f2b;
 }
 button {
     background-color: inherit;
